@@ -3,3 +3,6 @@
 https://junit.org/junit5/docs/current/user-guide/#writing-tests
 https://www.petrikainulainen.net/programming/testing/junit-5-tutorial-writing-parameterized-tests/
 https://assertj.github.io/doc/#assertj-core-assertions-guide
+
+* Calculator 기능
+  연산자를 통해서 계산하는 계산 프로그램
