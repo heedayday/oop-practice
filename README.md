@@ -1,3 +1,6 @@
+# 객체 지향 프로그래밍 4가지 특징
+### 추상화, 상속, 다형성, 캡슐화
+
 # 프로젝트 주요내용
 ### 자바 단위 데스트 프레임워크 JUnit5, AssertJ 학습
 https://junit.org/junit5/docs/current/user-guide/#writing-tests
